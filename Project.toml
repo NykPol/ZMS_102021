@@ -1,8 +1,2 @@
 [compat]
 julia = "1.6"
-[deps]
-CSV
-Plots
-Distributions
-HypothesisTests
-Random
